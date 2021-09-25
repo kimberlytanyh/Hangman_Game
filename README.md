@@ -1,4 +1,4 @@
-## Hangman_Game
+## Hangman Game
 
 In this repository, you will find an interactive text-based Hangman Game created in a Jupyter Notebook with specific functionality. The functions in the game are written as comments in the notebook as per assignment requirements.
 
